@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/cZLA4X2.png" style="max-height:500px"/>
 </p>
 <div align='center'>
-<a target="_blank" href="https://hannahbrown.site">
-<img alt="Static Badge" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=googlechrome&logoColor=%23301934&logoSize=auto&label=Memo's&labelColor=pink&color=%2382C2FF&link=https%3A%2F%2Fhannahbrown.site">
+<a target="_blank" href="https://github.com/MemoSainz/Portfolio">
+<img alt="Static Badge" src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=googlechrome&logoColor=%23301934&logoSize=auto&label=Memo%27s&labelColor=slateblue&color=%2382C2FF">
 </a>
 <a target="_blank" href="https://www.youtube.com/@tioalex-px">
 <img alt="Static Badge" src="https://img.shields.io/badge/Tech%20Cult-blue?style=for-the-badge&logo=youtube&logoColor=%23000000&logoSize=30&label=Memo's&labelColor=%239370DB&color=%2300a86b">
