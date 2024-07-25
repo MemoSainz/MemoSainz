@@ -57,7 +57,7 @@ Here are some ideas to get you started:
             <td>Arch btw</td>
         </tr>
         <tr>
-            <td>Favourite FrameWorks/Libraries</td>
+            <td>Favorite FrameWorks/Libraries</td>
             <td>Spring, React</td>
         </tr>
     </tbody>
