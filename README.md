@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <span>Hi my name's </span> <span><h1>Memo</h1></span>
     <p>Engineer in Computational System. </p>
     <p>I love the world of software development.</p>
-    <p>I speak fluenty both Spanish & English</p>
+    <p>and well... speak fluenty both Spanish & English</p>
     <table>
     <thead>
         <tr>
