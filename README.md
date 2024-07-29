@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     <tbody>
         <tr>
             <td>Programming Languages</td>
-            <td>Java, React, Ts, Js</td>
+            <td>Java, Ts, Js</td>
         </tr>
         <tr>
             <td>Hobbies</td>
