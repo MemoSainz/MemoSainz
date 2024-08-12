@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://i.imgur.com/SRKhMEK.png" style="max-height:500px"/>
+<img src="https://i.imgur.com/SRKhMEK.png" "/>
 </p>
 <div align='center'>
 <a target="_blank" href="https://github.com/MemoSainz/Portfolio">
