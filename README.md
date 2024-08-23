@@ -61,7 +61,7 @@ Here are some ideas to get you started:
         </tr>
         <tr>
             <td>Favorite FrameWorks/Libraries</td>
-            <td>Spring, React</td>
+            <td>Spring, Hibernate</td>
         </tr>
     </tbody>
         <thead>
