@@ -55,7 +55,7 @@ Here are some ideas to get you started:
         </tr>
         <tr>
             <td>Hobbies</td>
-            <td>Reading, Epic Music, Gym</td>
+            <td>Reading, Epic Music, Gym & praying</td>
         </tr>
         <tr>
             <td>Favourite Distro</td>
