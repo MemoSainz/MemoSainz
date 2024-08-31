@@ -62,6 +62,10 @@ Here are some ideas to get you started:
             <td>Arch btw</td>
         </tr>
         <tr>
+            <td>Distro</td>
+            <td>Linux Mint peasant</td>
+        </tr>
+        <tr>
             <td>Favorite FrameWorks/Libraries</td>
             <td>Spring, Hibernate</td>
         </tr>
