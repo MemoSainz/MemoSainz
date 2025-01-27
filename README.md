@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://i.imgur.com/SRKhMEK.png" style="max-height:500px"/>
+
+<!-- <img src="https://i.imgur.com/SRKhMEK.png" style="max-height:500px"/> -->
+    
+    
+<img src="https://i.ibb.co/bm51wQQ/Git-Hub-Recovered-6.png" style="max-height:500px"/>
 </p>
 <div align='center'>
 <a target="_blank" href="https://github.com/MemoSainz/Portfolio">
