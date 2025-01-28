@@ -83,8 +83,7 @@ Here are some ideas to get you started:
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=memosainz&theme=darcula&hide_border=true&background=FFFFFF00">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MemoSainz&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
+<img src="https://streak-stats.demolab.com?user=MemoSainz&theme=dark&hide_border=true&date_format=%5BY%20%5DM%20j" alt="GitHub Streak" />
 
 </div>
 
