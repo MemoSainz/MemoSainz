@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 <div align='center'>
     <span>Hi my name's </span> <span><h1>Memo</h1></span>
     <p>Engineer in Computer Systems. </p>
+    <p>Yet another backend dude. </p>
     <p>I love the world of software development.</p>
     <p>and well... speak fluenty both Spanish & English</p>
     <table>
