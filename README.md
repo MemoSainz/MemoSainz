@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 <div align='center'>
     <span>Hi my name's </span> <span><h1>Memo</h1></span>
     <p>Engineer in Computer Systems. </p>
-    <p>Yet another backend dude. </p>
     <p>I love the world of software development.</p>
     <p>and well... speak fluenty both Spanish & English</p>
     <table>
@@ -80,6 +79,7 @@ Here are some ideas to get you started:
         </tr>
     </thead>
 </table>
+    <p>Yet another backend dude. </p>
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=memosainz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=memosainz&theme=darcula&hide_border=true&background=FFFFFF00">
 
