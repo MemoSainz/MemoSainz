@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <p align="center">
 
 <!-- <img src="https://i.imgur.com/SRKhMEK.png" style="max-height:500px"/> -->
-    
-    
-<img src="https://i.ibb.co/bm51wQQ/Git-Hub-Recovered-6.png" style="max-height:500px"/>
+
+
+![GitHub-Recovered 7](https://github.com/user-attachments/assets/c5b029f4-4b4e-4dc1-ae1c-c532ebbac9bb)
+
 </p>
 <div align='center'>
 <a target="_blank" href="https://github.com/MemoSainz/Portfolio">
