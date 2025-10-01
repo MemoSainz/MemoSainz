@@ -61,7 +61,7 @@ Here are some ideas to get you started:
             <td>Reading, Epic Music, Gym & praying</td>
         </tr>
         <tr>
-            <td>Favourite Distro</td>
+            <td>Favorite Distro</td>
             <td>Arch btw</td>
         </tr>
         <tr>
