@@ -66,7 +66,7 @@ Here are some ideas to get you started:
         </tr>
         <tr>
             <td>Distro</td>
-            <td>Linux Mint peasant</td>
+            <td>Ubuntu peasant</td>
         </tr>
         <tr>
             <td>Favorite FrameWorks/Libraries</td>
