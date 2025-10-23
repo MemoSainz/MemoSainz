@@ -170,7 +170,7 @@ Here are some ideas to get you started:
           
 
     
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=memosainz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=memosainz&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html,css">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=memosainz&theme=darcula&hide_border=true&background=FFFFFF00">
 
 
